@@ -52,5 +52,5 @@ def get_albums(token):
 
 
 token=get_token()
-#get_song(token,get_artist_id(token,"weeknd"))
+#get_song(token,get_artist_id(token,"The Weeknd"))
 get_albums(token)
